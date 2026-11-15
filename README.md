@@ -1,3 +1,5 @@
+
+
 # 🏎️ Thrustmaster Ferrari SF1000 Wheel Emulator for ESP32
 
 [🇮🇹 Italiano](#-italiano) | [🇬🇧 English](#-english)
